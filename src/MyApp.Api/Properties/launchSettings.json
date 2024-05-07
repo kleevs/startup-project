@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "Orano.Card.Card.Api": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Local"
+      },
+      "applicationUrl": "https://localhost:65321;http://localhost:61589"
+    }
+  }
+}
